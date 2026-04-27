@@ -1,1 +1,1 @@
-Criando um ransmware com kali linux
+Criando um ransomware com kali linux
